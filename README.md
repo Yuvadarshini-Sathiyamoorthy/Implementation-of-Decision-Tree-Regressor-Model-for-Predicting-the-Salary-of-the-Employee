@@ -62,28 +62,25 @@ dt.predict([[5,6]])
 
 ## Output:
 ## data.head()
-![61](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/93482485/34e8ee88-b5bf-4672-b663-76e53c682402)
+![71](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/93482485/4128186c-ac76-4c98-ab1e-50329a212049)
 
 ## data.info()
-![62](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/93482485/88e4ee22-33f7-45e0-9669-2a79ed715cc2)
+![72](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/93482485/01908e1f-d893-42e7-a81c-bb1ae1478981)
 
 ## isnull() and sum()
-![63](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/93482485/23dc4a1f-8d9c-409c-9ba6-be554d58be6b)
-
-## data value counts()
-![64](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/93482485/8fe71614-cf2f-45d1-9cb4-c8deaf9c8902)
+![73](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/93482485/9f48c14b-79ec-4746-844e-c748175e97ed)
 
 ## data.head() for salary
-![65](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/93482485/ac4e6c9d-2153-4556-a788-81466539e51f)
+![74](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/93482485/fcf0c9c0-a404-4688-ae84-cc722ea2324f)
 
-## x.head()
-![66](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/93482485/09f0c774-63ba-417f-9eff-4624ecb62e3a)
+## MSE value
+![75](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/93482485/4eb97d21-85d2-41dd-9585-611e6b95836f)
 
-## accuracy value
-![67](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/93482485/44ac773e-10b1-4819-be20-84b4e3b4738a)
+## r2 value
+![76](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/93482485/88872012-52e0-40af-93f3-3cceb908bb9f)
 
 ## data prediction
-![68](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/93482485/977178ae-d688-40f3-9bfe-64519c05ce11)
+![77](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/93482485/988de6b6-bf23-48f9-a843-7d5cb832cd16)
 
 
 ## Result:
